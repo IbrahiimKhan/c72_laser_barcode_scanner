@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+RFID Scanner Native Module for Chainway C72 Scanner to Efficiently Scan Barcodes
 
 # Getting Started
 
